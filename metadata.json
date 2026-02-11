@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Small Business Assessment App",
+  "description": "A production-ready framework for conducting small business assessments with dynamic branching, composite scoring engines, and heuristic roadmap generation.",
+  "requestFramePermissions": []
+}
